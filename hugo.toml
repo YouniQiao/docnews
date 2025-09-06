@@ -1,0 +1,30 @@
+baseURL = 'https://docnews.harmonyos.cool/'
+languageCode = 'zh'
+title = '鸿蒙开发者文档MeoW历史消息'
+theme = 'paper'
+
+
+[params]
+  # color style
+  color = 'linen'                           # linen, wheat, gray, light
+
+  # header social icons
+  rss = true                                # show rss icon
+
+  # home page profile
+  avatar = 'sunxianlei@foxmail.com'                 # gravatar email or image url
+  name = '油腻樵夫'
+  bio = '技术写作者'
+
+
+  # misc
+  disableHLJS = true                        # disable highlight.js
+  disablePostNavigation = true              # disable post navigation
+  monoDarkIcon = true                       # show monochrome dark mode icon
+  gravatarCdn = 'https://cdn.v2ex.com/gravatar/'         # e.g. 'https://cdn.v2ex.com/gravatar/'
+  math = true                               # enable KaTeX math typesetting globally
+  localKatex = false                        # use local KaTeX js/css instead of CDN
+  favicon = "favicon.ico"                   # customize the default favicon
+  appleTouchIcon = "apple-touch-icon.png"   # customize the default Apple touch icon
+
+
