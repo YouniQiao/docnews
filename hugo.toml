@@ -12,7 +12,7 @@ theme = 'paper'
   rss = true                                # show rss icon
 
   # home page profile
-  avatar = 'sunxianlei@foxmail.com'                 # gravatar email or image url
+  avatar = 'https://youniqiaofu.com/images/avatar.png'                 # gravatar email or image url
   name = '油腻樵夫'
   bio = '技术写作者'
 
