@@ -1,0 +1,25 @@
++++
+author = "油腻樵夫"
+title = "6.0.2(22) Release版本文档发布上线"
+date = "2026-01-22"
+description = "6.0.2(22) Release版本文档发布上线"
+
++++
+
+【消息类型】文档版本更新提醒
+
+【消息内容】配套6.0.2(22) Release版本文档发布上线。
+
+	6.0.2(22)Release版本较较6.0.2(22)Beta1版本无特性版本。
+
+	6.0.2(22)Release版本较较6.0.1(21)版本新增特性如下：
+	1.ArkUI增强了滚动组件相关能力，支持更多可配置和自定义的属性；
+	2.Ability Kit增强了UIAbilityContext管理应用自身UIAbility的能力；
+	3.ArkWeb增强了与终端用户交互的能力，提升Web页面的交互体验；
+	4.Connectivity Kit的蓝牙模块增强了获取套接字链路信息的能力；
+	5.Test Kit的UITest模块增强了模拟交互操作的能力；
+	6.新增了FAST Kit（算法加速服务），提供高性能算法和数据结构等加速服务
+
+【文档地址】[https://developer.huawei.com/consumer/cn/doc/harmonyos-releases/overview-602](https://developer.huawei.com/consumer/cn/doc/harmonyos-releases/overview-602)
+
+【历史消息】访问https://docnews.harmonyos.cool/获取本频道更多历史消息。
